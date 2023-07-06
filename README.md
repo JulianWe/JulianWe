@@ -33,7 +33,6 @@
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vim.svg" width="32" height="32">
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" width="32" height="32">
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_html.svg" width="32" height="32">
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vue.svg" width="32" height="32">
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_scss.svg" width="32" height="32">
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_css.svg" width="32" height="32">
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" width="32" height="32">
