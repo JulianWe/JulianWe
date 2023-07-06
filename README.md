@@ -9,9 +9,9 @@
   const bio = {
     Languages: ['JavaScript', 'PowerShell', 'Bash'],
     Frontend: ['React', 'HTML', 'Vue', 'SCSS', 'CSS'],
-    Backend: ['Ansible', 'Docker', 'K8S', 'Git', 'Linux', 'Vim', 'Node.js', ],
+    Backend: ['Ansible', 'Docker', 'K8S', 'Git', 'Linux', 'Vim', 'Node.js'],
     Tools: ['VMware', 'vRo', 'vRa', 'vSphere', 'Azure', 'Grafana', 'InfluxDB', 'VSCode', 'REST API']
-    Blockchain: ['Ethereum', 'Polkadot', 'Cosmos', 'Polygon', 'Arbitrum', 'Optimism','Filecoin', 'Akash', 'Graph', 'ENS', 'Unibright', 'Sentinel']
+    Blockchain: ['Ethereum', 'Polkadot', 'Cosmos', 'Polygon', 'Arbitrum', 'Optimism', 'Filecoin', 'Akash', 'Graph', 'ENS', 'Unibright', 'Sentinel']
   }
 
   Object.entries(bio).reduce((acc, [key, value]) => {
@@ -56,17 +56,3 @@
 
 </div>
 
-
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
