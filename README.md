@@ -1,8 +1,4 @@
 <div align="center"> 
-  <h3>Hi there 👋</h3>
-
-
-
 <div align="left" style="width: 560px">
 
   ```js
