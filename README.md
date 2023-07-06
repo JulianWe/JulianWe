@@ -7,10 +7,10 @@
 
   ```js
   const bio = {
-    Languages: ['JavaScript', 'PowerShell', 'Bash'],
-    Frontend: ['React', 'HTML', 'Vue', 'SCSS', 'CSS'],
-    Backend: ['Ansible', 'Docker', 'K8S', 'Git', 'Linux', 'Vim', 'Node.js'],
-    Tools: ['VMware', 'vRo', 'vRa', 'vSphere', 'Azure', 'Grafana', 'InfluxDB', 'VSCode', 'REST API']
+    Languages: ['JavaScript', 'Java', 'PowerShell', 'Bash'],
+    Frontend: ['React', 'HTML', 'SCSS', 'CSS'],
+    Backend: ['Ansible', 'Docker', 'K8S', 'Git', 'Linux', 'Vim', 'REST API', 'Node.js'],
+    Tools: ['VMware', 'vRo', 'vRa', 'vCD', 'vRops', 'NSX-T', 'vRLI', 'vSphere', 'Azure', 'AD', 'AWS', 'Grafana', 'InfluxDB', 'VSCode']
     Blockchain: ['Ethereum', 'Polkadot', 'Cosmos', 'Polygon', 'Arbitrum', 'Optimism', 'Filecoin', 'Akash', 'Graph', 'ENS', 'Unibright', 'Sentinel']
   }
 
@@ -39,10 +39,9 @@
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_node.svg" width="32" height="32">
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_ansible.svg" width="32" height="32">
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_docker.svg" width="32" height="32">
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/folder_type_kubernetes.svg" width="32" height="32">
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_kubernetes.svg" width="32" height="32">
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_git.svg" width="32" height="32">
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_nginx.svg" width="32" height="32">
-
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_json.svg" width="32" height="32">
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_azure.svg" width="32" height="32">
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vscode.svg" width="32" height="32">
