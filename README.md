@@ -29,8 +29,8 @@
 
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_js.svg" width="32" height="32">
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_powershell.svg" width="32" height="32">
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_linux.svg" width="32" height="32">
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vim.svgg" width="32" height="32">
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_shell.svg" width="32" height="32">
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vim.svg" width="32" height="32">
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_reactjs.svg" width="32" height="32">
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_html.svg" width="32" height="32">
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vue.svg" width="32" height="32">
