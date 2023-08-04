@@ -2,6 +2,8 @@
 <div align="left" style="width: 560px">
 
   ```js
+
+  //Slowly parsing throug Stackoverflow 
   const bio = {
     Languages: ['JavaScript', 'Java', 'PowerShell', 'Bash'],
     Frontend: ['React', 'HTML', 'SCSS', 'CSS'],
@@ -20,6 +22,7 @@
 </div>
  
 <hr />
+
 
 
 
