@@ -3,7 +3,7 @@
 
   ```js
 
-  //Slowly parsing throug Stackoverflow 
+  //Slowly parsing through Stackoverflow 
   const bio = {
     Languages: ['JavaScript', 'Java', 'PowerShell', 'Bash'],
     Frontend: ['React', 'HTML', 'SCSS', 'CSS'],
@@ -48,7 +48,7 @@
 <img src = "https://img.shields.io/badge/-Chainlink-375BD2?logo=Chainlink&logoColor=fff"/></center>
 <img src = "https://img.shields.io/badge/-Bitcoin-F7931A?logo=Bitcoin&logoColor=fff"/></center>
 <img src = "https://img.shields.io/badge/-Ethereum-3C3C3D?logo=Ethereum&logoColor=fff"/></center>
-<img src = "https://img.shields.io/badge/-Solidity-363636?logo=Solidity&logoColor=fff"/></center>
+<img src = "https://img.shields.io/badge/-Solidsity-363636?logo=Solidity&logoColor=fff"/></center>
 
  <hr />
 <div align="center"> 
