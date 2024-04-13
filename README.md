@@ -1,4 +1,4 @@
-cuz<div align="center"> 
+<div align="center"> 
 <div align="left" style="width: 560px">
 
   ```js
