@@ -3,7 +3,7 @@
 
   ```js
 
-  //Slowly parsing through Stackoverflow 
+  // Slowly parsing through Stackoverflow 
   const bio = {
     Languages: ['JavaScript', 'Java', 'PowerShell', 'Bash'],
     Frontend: ['React', 'HTML', 'SCSS', 'CSS'],
