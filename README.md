@@ -6,7 +6,7 @@
   // Slowly parsing through Stackoverflow 
   const bio = {
     Languages: ['JavaScript', 'Java', 'PowerShell', 'Bash'],
-    Frontend: ['React', 'HTML', 'SCSS', 'CSS'],
+    Frontend: ['HTML', 'SCSS', 'CSS'],
     Backend: ['Ansible', 'Docker', 'K8S', 'Git', 'Linux', 'Vim', 'REST API', 'Node.js'],
     Tools: ['VMware', 'vRo', 'vRa', 'vCD', 'vRops', 'NSX-T', 'vRLI', 'vSphere', 'Azure', 'AD', 'AWS', 'Grafana', 'InfluxDB', 'VSCode'],
     Blockchain: ['Ethereum', 'Polkadot', 'Cosmos', 'Polygon', 'Arbitrum', 'Optimism', 'Filecoin', 'Akash', 'Graph', 'ENS', 'Unibright', 'Sentinel']
